@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>MongoDB CRUD Operations with Node.js</title>
-</head>
-<body>
-
   <h1>MongoDB CRUD Operations with Node.js</h1>
 
   <h2>Description</h2>
@@ -72,6 +64,3 @@
 
   <h2> Author</h2>
   <p><strong>Ilma Gulzar</strong></p>
-
-</body>
-</html>
